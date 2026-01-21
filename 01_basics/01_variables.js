@@ -6,7 +6,7 @@ const
 var
 */
 let userName = "Rishu"
-const phoneNumber = 8810576455
+const phoneNumber = 889955
 var userCity = "Delhi"
 
 /* var variable is not validate now in the coding sector coz of the problem it has
